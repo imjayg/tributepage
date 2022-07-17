@@ -5,7 +5,7 @@
   }
   
   .container {
-    background-image: url('./images/missile.jpg');
+    background-image: url('missile.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
